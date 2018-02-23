@@ -1,3 +1,5 @@
 # ScrapyScraper
-Web scraper using Python Scrapy. 
+## A web scraper using Python Framework Scrapy 
+
+A 
 
