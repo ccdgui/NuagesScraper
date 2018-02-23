@@ -1,2 +1,3 @@
-# web_scraper
+# ScrapyScraper
 Web scraper using Python Scrapy. 
+
