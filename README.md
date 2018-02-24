@@ -1,5 +1,5 @@
 # NuagesScraper
-## Web scraping an online forum using Scrapy 
+## Gentle scraping of online forums using Scrapy 
 
 The purpose of this scraper is to crawl select pages of a publicly available section of an online health forum ('message board'). The crawler returns structured json data from the messages posted by users. 
 
