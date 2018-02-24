@@ -1,7 +1,7 @@
 # ScrapyScraper
 ## A web scraper using Scrapy 
 
-The Nuage Spider is used to crawl select pages of a publicly available section of an online health forum ('message board'). The crawler returns structured json data from the messages posted by users. 
+The purpose of this scraper is to crawl select pages of a publicly available section of an online health forum ('message board'). The crawler returns structured json data from the messages posted by users. 
 
 Highlights of this folder: 
 
